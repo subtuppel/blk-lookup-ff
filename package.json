@@ -1,0 +1,9 @@
+{
+  "name": "blk-lookup",
+  "title": "BlackCoin Lookup",
+  "id": "jid1-XZBQXH3QKSuDcA",
+  "description": "look up BlackCoin addresses or transactions",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
